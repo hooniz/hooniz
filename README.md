@@ -3,19 +3,13 @@ Hi! I'm a backend/fullstack developer from Kazan, Russia 🇷🇺<br>
 Currently working in an IT company as a PHP developer. I have around **5000+ contributions** per year and actively participate in building complex web systems.<br>
 Although I don’t have open-source projects yet — I plan to share my work soon!
 
----
-
-[![](https://visitcount.itsvg.in/api?id=hooniz&icon=0&color=12)](https://visitcount.itsvg.in)
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height:30px;" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" style="height:30px;" alt="Yii2"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="height:30px;" alt="Laravel"/>
+  <img src="https://svgbox.net/iconset/devicon/laravel.svg" style="height:30px;" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:30px;" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:30px;" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="height:30px;" alt="Go"/>
@@ -47,8 +41,8 @@ Although I don’t have open-source projects yet — I plan to share my work soo
 
 ## 🌐 Contacts
 
-- 📧 Email: [your.email@example.com](mailto:an.step1234@gmail.com)
-- 💻 Telegram: [@yourhandle](https://t.me/a_stepanovv)
+- 📧 Email: [an.step1234@gmail.com](mailto:an.step1234@gmail.com)
+- 💻 Telegram: [@andrey](https://t.me/a_stepanovv)
 
 ---
 
