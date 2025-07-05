@@ -9,7 +9,7 @@ Although I don’t have open-source projects yet — I plan to share my work soo
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height:30px;" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" style="height:30px;" alt="Yii2"/>
-  <img src="https://svgbox.net/iconset/devicon/laravel.svg" style="height:30px;" alt="Laravel"/>
+<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/laravel.svg" style="height:30px;" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:30px;" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:30px;" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="height:30px;" alt="Go"/>
