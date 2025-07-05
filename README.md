@@ -9,7 +9,7 @@ Although I don’t have open-source projects yet — I plan to share my work soo
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height:30px;" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" style="height:30px;" alt="Yii2"/>
-<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/laravel.svg" style="height:30px;" alt="Laravel"/>
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" style="height:30px;" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:30px;" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:30px;" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="height:30px;" alt="Go"/>
@@ -27,15 +27,6 @@ Although I don’t have open-source projects yet — I plan to share my work soo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height:30px;" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:30px;" alt="Linux"/>
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hooniz&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooniz&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-</div>
 
 ---
 
