@@ -33,8 +33,6 @@ Although I don’t have open-source projects yet — I plan to share my work soo
 ## 🌐 Contacts
 
 - 📧 Email: [an.step1234@gmail.com](mailto:an.step1234@gmail.com)
-- 💻 Telegram: [@andrey](https://t.me/a_stepanovv)
-
 ---
 
 > ✨ "Code is like humor. When you have to explain it, it’s bad." – Cory House
